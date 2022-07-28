@@ -69,6 +69,10 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
+                    <connections>
+                        <outlet property="nomeTextField" destination="jdD-3b-r8y" id="Un9-9I-UEQ"/>
+                        <outlet property="telefoneTextField" destination="N3z-WR-MBM" id="JuK-Cf-mwy"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
