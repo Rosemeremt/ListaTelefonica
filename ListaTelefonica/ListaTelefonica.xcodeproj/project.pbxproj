@@ -24,6 +24,7 @@
 		5898A18F288033AB003800F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5898A192288033AB003800F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5898A194288033AB003800F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58B6AF6B28971059005C7A0D /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 				5898A18A288033AA003800F1 /* ViewController.swift */,
 				5898A18C288033AA003800F1 /* Main.storyboard */,
 				5898A18F288033AB003800F1 /* Assets.xcassets */,
+				58B6AF6B28971059005C7A0D /* MyPlayground.playground */,
 				5898A191288033AB003800F1 /* LaunchScreen.storyboard */,
 				5898A194288033AB003800F1 /* Info.plist */,
 			);
